@@ -9,6 +9,9 @@ namespace petertestGithub
             Console.WriteLine("Hello World!");
             int i = 9;
             int k = i + 9;
+
+            int dog = 1;
+            int cat = dog + 2; 
         }
     }
 }
